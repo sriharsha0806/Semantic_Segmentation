@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Segmentation Evaluation
 Martin Keršner, [m.kersner@gmail.com](mailto:.m.kersner@gmail.com)
 
@@ -19,3 +20,7 @@ Evaluation metrics for image segmentation inspired by paper [Fully Convolutional
 * *n_cl* : number of classes included in ground truth segmentation
 * *n_ij* : number of pixels of class *i* predicted to belong to class *j*
 * *t_i*  : total number of pixels of class *i* in ground truth segmentation
+=======
+# Semantic_Segmentation
+This repository consists my research on Semantic Segmentation
+>>>>>>> 01255fc87ae2977c520538afd117786bebe426c4
