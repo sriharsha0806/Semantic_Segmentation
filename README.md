@@ -20,7 +20,35 @@ Evaluation metrics for image segmentation inspired by paper [Fully Convolutional
 * *n_ij* : number of pixels of class *i* predicted to belong to class *j*
 * *t_i*  : total number of pixels of class *i* in ground truth segmentation
 =======
+
 [source](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjt77bNsunXAhXEsI8KHaxuAdEQFggtMAA&url=https%3A%2F%2Fgithub.com%2Fmartinkersner%2Fpy_img_seg_eval&usg=AOvVaw11tZADdItdLzahmUs16UFU)
 
+# Datasets
 ![Datsets](Images/Datasets.png)
-![Models](Models.png)
+
+# Models
+![Models](Images/Models.png)
+
+# Visualization of methods
+![Visualization](Visualization.png)
+
+# Performance results on PASCAL VOC 2012
+![](PASCAL_VOC12.png)
+
+# Performance results on PASCAL Context
+![](PASCAL_CONTEXT.png)
+
+# Performance results on PASCAL-Person-Part
+![](PASCAL_PERSON_PART.png)
+
+# Performance results on CamVid
+![](CamVid.png)
+
+# Performance results on CityScapes
+![](CityScapes.png)
+
+# Performance results on Stanford Background
+![](Stanford.png)
+
+# Performance results on Sift Flow
+![](SiftFlow.png)
