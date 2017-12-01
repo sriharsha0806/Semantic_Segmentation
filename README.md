@@ -30,25 +30,25 @@ Evaluation metrics for image segmentation inspired by paper [Fully Convolutional
 ![Models](Images/Models.png)
 
 # Visualization of methods
-![Visualization](Visualization.png)
+![Visualization](Images/Visualization.png)
 
 # Performance results on PASCAL VOC 2012
-![](PASCAL_VOC12.png)
+![](Images/PASCAL_VOC12.png)
 
 # Performance results on PASCAL Context
-![](PASCAL_CONTEXT.png)
+![](Images/PASCAL_CONTEXT.png)
 
 # Performance results on PASCAL-Person-Part
-![](PASCAL_PERSON_PART.png)
+![](Images/PASCAL_PERSON_PART.png)
 
 # Performance results on CamVid
-![](CamVid.png)
+![](Images/CamVid.png)
 
 # Performance results on CityScapes
-![](CityScapes.png)
+![](Images/CityScapes.png)
 
 # Performance results on Stanford Background
-![](Stanford.png)
+![](Images/Stanford.png)
 
 # Performance results on Sift Flow
-![](SiftFlow.png)
+![](Images/SiftFlow.png)
