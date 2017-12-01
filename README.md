@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# Image Segmentation Evaluation
-Martin Keršner, [m.kersner@gmail.com](mailto:.m.kersner@gmail.com)
+# Semantci Segmetation
+This repository contains Code and Papers I found useful for Semantic Segmentation
 
 Evaluation metrics for image segmentation inspired by paper [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/abs/1411.4038).
 
@@ -21,6 +20,7 @@ Evaluation metrics for image segmentation inspired by paper [Fully Convolutional
 * *n_ij* : number of pixels of class *i* predicted to belong to class *j*
 * *t_i*  : total number of pixels of class *i* in ground truth segmentation
 =======
-# Semantic_Segmentation
-This repository consists my research on Semantic Segmentation
->>>>>>> 01255fc87ae2977c520538afd117786bebe426c4
+[source](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjt77bNsunXAhXEsI8KHaxuAdEQFggtMAA&url=https%3A%2F%2Fgithub.com%2Fmartinkersner%2Fpy_img_seg_eval&usg=AOvVaw11tZADdItdLzahmUs16UFU)
+
+![Datsets](Datasets.png)
+![Models](Models.png)
