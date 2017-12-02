@@ -1,4 +1,4 @@
-# Semantci Segmetation
+# Semantic Segmetation
 This repository contains Code and Papers I found useful for Semantic Segmentation
 
 Evaluation metrics for image segmentation inspired by paper [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/abs/1411.4038).
